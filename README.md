@@ -6,5 +6,8 @@ _Cómo correr la app en tu computadora_
 3. Clonar (o descargar) el proyecto    
 4. Abrir la carpeta del proyecto en el explorador de archivos
 5. Abrir una consola de comandos dentro de la carpeta (en Windows: click derecho -> "Abrir en terminal")
-6. Ejecutar _docker-compose up -d_ en la consola
+6. Ejecutar _docker-compose up --build -d_ en la consola
 7. Acceder a http://localhost:5500/ en el navegador
+
+**Nota:** El flag `--build` es necesario la primera vez para construir las imágenes. 
+Las siguientes veces se puede usar solo `docker-compose up -d`
