@@ -1,4 +1,12 @@
-## __Aplicación Spring que simula ser un bloc de notas con funcionalidad para _crear_, _editar_, _archivar_, y _eliminar_.__  
+# __Bloc de notas simple con funcionalidad para _crear_, _editar_, _archivar_, y _eliminar_.__  
+
+>## Detalles técnicos
+>-Backend con Java+Spring y arquitectura de microservicios.  
+>-Base de datos PostgreSQL.  
+>-Frontend HTML+Bootstrap+JS.  
+>-JavaScript para interfaz de conexion entre frontend y backend.  
+>-Contenedor Docker para encapsular tecnologías y sus correspondientes versiones.
+
 
 ### _Cómo correr la app en tu computadora_  
 1. Descargar e instalar Docker Desktop (https://www.docker.com/products/docker-desktop/)
