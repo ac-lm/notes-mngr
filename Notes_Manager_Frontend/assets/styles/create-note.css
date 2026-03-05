@@ -1,0 +1,16 @@
+#create-note-form {
+    margin-left: 40%;
+}
+
+#create-note-form > fieldset {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+
+#create-note-form > fieldset + * {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
