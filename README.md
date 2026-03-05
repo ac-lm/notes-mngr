@@ -4,7 +4,7 @@
 >-Backend con Java+Spring y arquitectura MVC de microservicios.  
 >-Base de datos PostgreSQL.  
 >-Frontend HTML+Bootstrap+JS.  
->-JavaScript para interfaz de conexion entre frontend y backend.  
+>-JavaScript para interfaz de conexion entre frontend y backend y funcionalidad SPA.  
 >-Contenedor Docker para encapsular tecnologías y sus correspondientes versiones.
 
 
