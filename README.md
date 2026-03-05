@@ -1,7 +1,7 @@
 # __Bloc de notas simple con funcionalidad para _crear_, _editar_, _archivar_, y _eliminar_.__  
 
 >## Detalles técnicos
->-Backend con Java+Spring y arquitectura de microservicios.  
+>-Backend con Java+Spring y arquitectura MVC de microservicios.  
 >-Base de datos PostgreSQL.  
 >-Frontend HTML+Bootstrap+JS.  
 >-JavaScript para interfaz de conexion entre frontend y backend.  
